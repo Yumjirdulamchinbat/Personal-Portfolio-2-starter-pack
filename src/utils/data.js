@@ -3,117 +3,118 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
+    name: "Web Designer",
+    projects: 23,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
+    name: "Frontend Developer",
+    projects: 17,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 8,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  " I have one year experience as a front-end software developer.I use my HTML, CSS, JS , REACT skills and other frameworks to bring development ideas to life in the web browser ",
+  "I will help you find creative and interactive solutions",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Maharishi International University",
+    tenure: "Feb2022",
+    role: "Master of Computer Science",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      " CS516-Cloud Computing, CS545-Web Application Archiecture, CS590-Software Archiecture,",
+      
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "XacBank",
+    tenure: "Dec2013 ",
+    role: "Customer Service representive",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Provide guidance on customer financial management, regulations, procedures and standards for the banking products and services, and establish a unified standard for customer service by coordinating with Hasbank, as well as promoting, delivering and selling",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "National University of Mongolia",
+    tenure: "Sep2010",
+    role: "Applied Mathematic Statistics",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Object Oriented Programming,  Algorithms, Technology and Database, Mathematical Programming",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
+    name: "Tugssaikhan Chinbat",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Strong information technology professional. She has excellent programming skills.I strongly believe that her technical skills will add value to your organization.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Tony Oyunbazar",
+    post: "Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "She is a detail-oriented programmer, I would highly recommend Yumjae for the position of a Software Developer ",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Tugssaikhan Chinbat",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Strong information technology professional. She has excellent programming skills.I strongly believe that her technical skills will add value to your organization.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Tony Oyunbazar",
+    post: "Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "She is a detail-oriented programmer, I would highly recommend Yumjae for the position of a Software Developer",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Tugssaikhan Chinbat",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Strong information technology professional. She has excellent programming skills.I strongly believe that her technical skills will add value to your organization.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Tony Oyunbazar",
+    post: "Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "She is a detail-oriented programmer, I would highly recommend Yumjae for the position of a Software Developer",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Tugssaikhan Chinbat",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Strong information technology professional. She has excellent programming skills.I strongly believe that her technical skills will add value to your organization.",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Tony Oyunbazar",
+    post: "Manager",
+    comment:
+      "She is a detail-oriented programmer, I would highly recommend Yumjae for the position of a Software Developer",
+    img: "./people2.png",
+  },
+  {
+    name: "Tugssaikhan Chinbat",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "Strong information technology professional. She has excellent programming skills.I strongly believe that her technical skills will add value to your organization.",
+    img: "./people1.png",
   },
 ];
 
